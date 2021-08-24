@@ -1,0 +1,6 @@
+{
+    "host": "smtp.mailtrap.io",
+    "port": porta do mailtrap,
+    "user": "seu-user-do-mailtrap",
+    "pass": "seu-pass-do-mailtrap"
+}
